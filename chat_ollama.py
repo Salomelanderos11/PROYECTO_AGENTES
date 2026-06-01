@@ -1,5 +1,5 @@
 import ollama
-from agenteLocal import AgenteLocal
+from ejemplo.agenteLocal import AgenteLocal
 
 mi_agente = AgenteLocal()
 print("Agente cody banks está listo")
